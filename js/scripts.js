@@ -6,7 +6,7 @@
  *
  * @category   JavaScript
  * @package    LibraryManagementSystem
- * @author     Your Name <your.email@example.com>
+ * @author     Abdullahi Nur <nurthed27@gmail.com>
  */
 
 document.addEventListener('DOMContentLoaded', function() {
